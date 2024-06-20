@@ -1,0 +1,17 @@
+{
+    "name": "coolr/php-laravel-elasticsearch-orm",
+    "autoload": {
+        "psr-4": {
+            "Coolr\\ElastocSearchOrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coolrwh"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "elasticsearch/elasticsearch": "^7.0"
+    }
+}
